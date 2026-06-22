@@ -31,3 +31,12 @@ Script en Bash para automatizar respaldos de bases de datos PostgreSQL en entorn
 
 # Backup completo diario a medianoche
 0 0 * * * /usr/local/bin/backup_postgresql.sh
+
+## 👤 Autor
+
+**Nelson Fabricio Bodero Pin**  
+🔧 Tecnólogo en Redes | Estudiante de Ingeniería en Sistemas Inteligentes  
+📧 fabriciobodero@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/nelson-fabricio-bodero-pin-70b8b485)  
+🐙 [GitHub](https://github.com/nbodero-netizen)  
+📅 Proyecto realizado en 2025
